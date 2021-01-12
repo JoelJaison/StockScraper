@@ -1,6 +1,3 @@
+WebScraping/.ipynb_checkpoints/
 pyvenv.cfg
-bin
-lib
-share
-etc
-.ipynb_checkpoints/
+.gitignore.swp
